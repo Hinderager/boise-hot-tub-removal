@@ -107,8 +107,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </QuoteFormProvider>
         <StructuredData />
         <BreadcrumbSchema siteName="Top Shelf Hot Tub Removal" siteUrl="https://boise-hot-tub-removal.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <link rel="preconnect" href="https://connect.facebook.net" />
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
         <link rel="dns-prefetch" href="https://www.google.com" />
       </body>
