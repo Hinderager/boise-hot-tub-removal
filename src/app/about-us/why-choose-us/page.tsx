@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { CheckCircle, Phone, Clock, Shield, Users, DollarSign } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -23,6 +24,8 @@ export default function WhyChooseUsPage() {
           </p>
         </div>
       </section>
+
+      <VisibleBreadcrumb />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

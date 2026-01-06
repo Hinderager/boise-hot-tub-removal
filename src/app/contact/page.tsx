@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { Phone, Mail, MapPin, Clock } from 'lucide-react'
 import { SchedulingForm } from '@/components/SchedulingForm'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Contact Us | Boise Hot Tub Removal | (208) 943-5231',
@@ -24,6 +25,8 @@ export default function ContactPage() {
           </p>
         </div>
       </section>
+
+      <VisibleBreadcrumb />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

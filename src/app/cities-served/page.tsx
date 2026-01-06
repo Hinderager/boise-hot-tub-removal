@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { MapPin, Phone, CheckCircle } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Cities We Serve | Hot Tub Removal Treasure Valley | Boise Hot Tub Removal',
@@ -87,6 +88,8 @@ export default function CitiesServedPage() {
           </a>
         </div>
       </section>
+
+      <VisibleBreadcrumb />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, Recycle } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Recycling Options | Boise Hot Tub Removal',
@@ -24,6 +25,7 @@ export default function RecyclingPage() {
           </a>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
 
       <section className="py-16 bg-white">

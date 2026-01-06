@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { Phone } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Disposal Services | Boise Hot Tub Removal',
@@ -16,6 +17,7 @@ export default function DisposalPage() {
           <h1 className="text-4xl md:text-5xl font-bold text-white">Disposal Services</h1>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

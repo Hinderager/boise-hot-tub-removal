@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone, Users, Award, Clock, Shield } from 'lucide-react'
@@ -25,6 +26,8 @@ export default function AboutUsPage() {
           </p>
         </div>
       </section>
+
+      <VisibleBreadcrumb />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

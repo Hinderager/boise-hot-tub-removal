@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Deck Removal Services | Boise Hot Tub Removal',
@@ -24,6 +25,7 @@ export default function DeckRemovalPage() {
           </a>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
 
       <section className="py-16 bg-white">
