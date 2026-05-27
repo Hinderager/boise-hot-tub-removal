@@ -108,7 +108,7 @@ export default function PreparingHotTubForRemoval() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Cost is reasonable.</strong> Most Boise-area electricians charge $75-150 for a hot tub disconnect. It takes them about 30 minutes.
+              <strong>Cost is reasonable.</strong> A hot tub disconnect is a quick job—usually about 30 minutes for a licensed electrician—so the bill is modest.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">

@@ -11,7 +11,7 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 const faqData = [
   {
     question: 'How much does hot tub removal cost?',
-    answer: 'Hot tub removal typically costs between $200 and $500, depending on the size, type, and accessibility of the spa. Larger units or hot tubs in difficult locations may cost more. We provide free quotes over the phone or onsite before any work begins.',
+    answer: 'Cost depends on the size and type of hot tub, accessibility, whether it\'s portable or built-in, and whether a deck or pad needs to come out. We provide free quotes over the phone or on-site before any work begins.',
   },
   {
     question: 'Can you remove a hot tub the same day?',
@@ -76,7 +76,6 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "Same Day Service",
       "Eco-Friendly Disposal"
     ],
-    "priceRange": "$$",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -111,15 +110,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "@type": "State",
       "name": "Idaho"
     },
-    "description": `Professional hot tub and spa removal services in ${city} and the Treasure Valley. We safely disconnect, demolish, and dispose of old hot tubs.`,
-    "offers": {
-      "@type": "Offer",
-      "availability": "https://schema.org/InStock",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "priceCurrency": "USD"
-      }
-    }
+    "description": `Professional hot tub and spa removal services in ${city} and the Treasure Valley. We safely disconnect, demolish, and dispose of old hot tubs.`
   }
 
   // FAQPage schema - critical for LLM seeding and AI search visibility

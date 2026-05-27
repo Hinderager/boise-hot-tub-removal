@@ -141,19 +141,19 @@ export default function DIYHotTubRemoval() {
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Electrician:</strong> $75-150 for disconnect</span>
+                <span className="text-blue-100"><strong>Electrician:</strong> Hire a licensed electrician for the disconnect</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Saw blades:</strong> $30-50 (you'll go through several)</span>
+                <span className="text-blue-100"><strong>Saw blades:</strong> You'll go through several blades cutting through the shell</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Dump fees:</strong> $50-100+ depending on weight</span>
+                <span className="text-blue-100"><strong>Dump fees:</strong> Weight-based fees at the landfill</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Truck rental:</strong> $50-100 if you don't have a trailer</span>
+                <span className="text-blue-100"><strong>Truck rental:</strong> If you don't already have a trailer or large truck</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -162,7 +162,7 @@ export default function DIYHotTubRemoval() {
             </div>
 
             <p className="text-blue-100 leading-relaxed">
-              Total DIY cost: typically $200-400, plus a full day of hard work. And that assumes everything goes smoothly.
+              All in, DIY takes a full day of hard work and a stack of out-of-pocket costs. And that assumes everything goes smoothly.
             </p>
           </div>
         </div>

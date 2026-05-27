@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button'
 export const faqs = [
   {
     question: 'How much does hot tub removal cost?',
-    answer: 'Hot tub removal typically costs between $200 and $500, depending on the size, type, and accessibility of the spa. Larger units or hot tubs in difficult locations may cost more. We provide free quotes over the phone or onsite before any work begins.'
+    answer: 'Cost depends on the size and type of hot tub, access (open driveway vs. tight backyard or second-story deck), whether it\'s portable or built-in, and whether a deck or pad needs to come out with it. Larger units or hot tubs in tough locations take more work. We provide free quotes over the phone or on-site before any work begins.'
   },
   {
     question: 'Can you remove a hot tub the same day?',

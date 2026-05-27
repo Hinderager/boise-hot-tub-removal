@@ -6,7 +6,7 @@ import { DollarSign, CheckCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Hot Tub Removal Cost in Boise: What to Budget | Hot Tub Removal Pros',
-  description: 'Hot tub removal in Boise typically costs $300-600. Here\'s what affects the price and what you should expect.',
+  description: 'What does hot tub removal cost in Boise? Here\'s what affects the price and what you should expect.',
   alternates: {
     canonical: 'https://boise-hot-tub-removal.com/blogs/hot-tub-removal-cost-boise',
   },
@@ -46,7 +46,7 @@ export default function HotTubRemovalCostBoise() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              "How much to remove a hot tub?" It's the first question everyone asks. The honest answer for the Boise area: most hot tub removals run $300-600.
+              "How much to remove a hot tub?" It's the first question everyone asks. The honest answer for the Boise area: it depends on a few factors that we'll walk through below.
             </p>
             <p className="text-gray-600 leading-relaxed">
               But that range is pretty wide. Here's what actually determines where your job falls on that spectrum—and what might push it higher or lower.
@@ -73,15 +73,15 @@ export default function HotTubRemovalCostBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Basic removal ($300-400):</strong> Standard-size hot tub with easy ground-level access. Open gate or driveway access, short carry to the truck. No complications.
+              <strong>Basic removal:</strong> Standard-size hot tub with easy ground-level access. Open gate or driveway access, short carry to the truck. No complications. The most budget-friendly end of the range.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Standard removal ($400-500):</strong> Average job with minor access challenges. Maybe a fence to work around, a deck to navigate, or a moderately heavy tub.
+              <strong>Standard removal:</strong> Average job with minor access challenges. Maybe a fence to work around, a deck to navigate, or a moderately heavy tub.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Complex removal ($500-700+):</strong> Large hot tubs, difficult access, deck removal needed, or multiple obstacles. Second-story decks, crane requirements, or below-ground installations.
+              <strong>Complex removal:</strong> Large hot tubs, difficult access, deck removal needed, or multiple obstacles. Second-story decks, crane requirements, or below-ground installations are the most involved.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -173,7 +173,7 @@ export default function HotTubRemovalCostBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Electrical disconnection.</strong> You'll need a licensed electrician for the 220V disconnect. Expect $75-150 for this service.
+              <strong>Electrical disconnection.</strong> You'll need a licensed electrician for the 220V disconnect. This is a separate, modest cost from your electrician.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -231,7 +231,7 @@ export default function HotTubRemovalCostBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Most Boise-area hot tub removals cost $300-600, with the final price depending mainly on access difficulty and tub size. Complex jobs with access challenges or built-in installations can run higher.
+              The final price for a Boise-area hot tub removal depends mainly on access difficulty and tub size. Complex jobs with access challenges or built-in installations run higher than basic ground-level removals.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
