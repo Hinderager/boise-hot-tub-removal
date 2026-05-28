@@ -26,7 +26,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-hot-tub-removal.com'),
   title: 'Hot Tub Removal Boise | Same-Day Spa Removal | Boise Hot Tub Removal',
-  description: 'Professional hot tub removal in Boise, Idaho. Safe disconnection, full demolition, and eco-friendly disposal. Same-day service available. Call (208) 361-1982 for a free quote.',
+  description: 'Professional hot tub removal in Boise, Idaho. Safe disconnection, full demolition, and eco-friendly disposal. Same-day service available. Call (208) 943-5231 for a free quote.',
   keywords: 'hot tub removal Boise, spa removal Boise, jacuzzi removal, hot tub disposal, hot tub demolition, deck hot tub removal, Boise Idaho, Meridian, Nampa, Caldwell, Eagle',
   openGraph: {
     title: 'Hot Tub Removal Boise | Same-Day Spa Removal | Boise Hot Tub Removal',

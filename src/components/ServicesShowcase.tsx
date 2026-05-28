@@ -6,28 +6,28 @@ const services = [
     title: 'Hot Tub Removal',
     description: 'Got an old hot tub sitting in your backyard collecting dust? We handle all types—acrylic spas, wooden hot tubs, inflatable spas, and more. We safely disconnect electrical and plumbing connections, then carefully remove the unit from your property. Whether it\'s accessible or tucked away in a tight spot, we\'ll get it out.',
     image: '/generated/hot-tub-disconnect.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Hot Tub Demolition',
     description: 'Some hot tubs are too big or too heavy to remove in one piece. No problem. We break them down right there in your yard using professional tools. We cut the shell into manageable sections, remove all the components, and haul everything away. When we\'re done, you won\'t even know a hot tub was there.',
     image: '/generated/hot-tub-cutting.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Deck & Platform Removal',
     description: 'Many hot tubs sit on custom decks or concrete pads. If you want it all gone, we can remove the deck, platform, or enclosure too. We handle the full project so you don\'t have to coordinate multiple contractors. One crew, one call, done.',
     image: '/generated/deck-repair.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Eco-Friendly Disposal',
     description: 'Hot tubs contain recyclable materials—plastics, metals, wiring, and more. We sort and recycle what we can instead of dumping everything at the landfill. It\'s better for the environment and helps keep costs down. We\'ll dispose of your old spa responsibly.',
     image: '/generated/spa-removal.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
 ]
@@ -96,9 +96,9 @@ export function ServicesShowcase() {
         {/* CTA Buttons */}
         <div className="flex flex-row gap-4 justify-center mt-16">
           <Button asChild size="lg" className="bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold text-lg px-10 py-6 rounded-lg uppercase border-4 border-ub-yellow">
-            <a href="tel:2083611982">
+            <a href="tel:2089435231">
               <span className="md:hidden">Call Now</span>
-              <span className="hidden md:inline">(208) 361-1982</span>
+              <span className="hidden md:inline">(208) 943-5231</span>
             </a>
           </Button>
         </div>

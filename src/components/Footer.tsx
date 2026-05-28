@@ -90,7 +90,7 @@ export function Footer() {
                     className="text-white/80 hover:text-white transition-colors font-semibold"
                   >
                     <span className="md:hidden">Call Now</span>
-                    <span className="hidden md:inline">(208) 361-1982</span>
+                    <span className="hidden md:inline">(208) 943-5231</span>
                   </a>
                 </div>
               </li>
