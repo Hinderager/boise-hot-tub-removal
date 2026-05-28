@@ -7,6 +7,7 @@ interface LeadRequest {
   lastName: string
   phone: string
   source: string
+  tags?: string[]
   message?: string
   photoUrls?: string[]
 }
@@ -40,7 +41,8 @@ export async function POST(request: NextRequest) {
         firstName: body.firstName || 'Unknown',
         lastName: body.lastName || '',
         phone: digits,
-        source: body.source || 'ms-hottub',
+        source: body.source || 'microsite - hot tub removal',
+        tags: body.tags || [],
         message: body.message || '',
         photoUrls: body.photoUrls || []
       })
