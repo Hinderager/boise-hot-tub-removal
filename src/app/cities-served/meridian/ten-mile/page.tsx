@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Ten Mile Area Meridian | Top Shelf',
+  title: 'Hot Tub Removal Ten Mile Area Meridian | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Ten Mile Area, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Ten Mile Area', 'hot tub removal Ten Mile Area Meridian', 'Ten Mile Area meridian hot tub removal'],
   alternates: {

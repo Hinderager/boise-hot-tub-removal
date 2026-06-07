@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Downtown Boise Boise | Top Shelf',
+  title: 'Hot Tub Removal Downtown Boise Boise | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Downtown Boise, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Downtown Boise', 'hot tub removal Downtown Boise Boise', 'Downtown Boise boise hot tub removal'],
   alternates: {

@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: 'Hot Tub Removal Boise | Same-Day Spa Removal | Boise Hot Tub Removal',
     description: 'Professional hot tub removal in Boise and the Treasure Valley. Safe disconnection, demolition, and eco-friendly disposal.',
     url: 'https://boise-hot-tub-removal.com',
-    siteName: 'Top Shelf Hot Tub Removal',
+    siteName: 'Boise Hot Tub Removal',
     locale: 'en_US',
     type: 'website',
   },
@@ -102,7 +102,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <Footer />
         </QuoteFormProvider>
         <StructuredData />
-        <BreadcrumbSchema siteName="Top Shelf Hot Tub Removal" siteUrl="https://boise-hot-tub-removal.com" />
+        <BreadcrumbSchema siteName="Boise Hot Tub Removal" siteUrl="https://boise-hot-tub-removal.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />

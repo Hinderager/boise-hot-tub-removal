@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Karcher Nampa | Top Shelf',
+  title: 'Hot Tub Removal Karcher Nampa | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Karcher, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Karcher', 'hot tub removal Karcher Nampa', 'Karcher nampa hot tub removal'],
   alternates: {

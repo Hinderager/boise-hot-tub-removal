@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Tuscany Meridian | Top Shelf',
+  title: 'Hot Tub Removal Tuscany Meridian | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Tuscany, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Tuscany', 'hot tub removal Tuscany Meridian', 'Tuscany meridian hot tub removal'],
   alternates: {

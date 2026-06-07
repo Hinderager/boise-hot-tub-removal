@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Lochsa Falls Meridian | Top Shelf',
+  title: 'Hot Tub Removal Lochsa Falls Meridian | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Lochsa Falls, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Lochsa Falls', 'hot tub removal Lochsa Falls Meridian', 'Lochsa Falls meridian hot tub removal'],
   alternates: {

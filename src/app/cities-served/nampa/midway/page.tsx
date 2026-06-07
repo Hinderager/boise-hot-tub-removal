@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Midway Nampa | Top Shelf',
+  title: 'Hot Tub Removal Midway Nampa | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Midway, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Midway', 'hot tub removal Midway Nampa', 'Midway nampa hot tub removal'],
   alternates: {

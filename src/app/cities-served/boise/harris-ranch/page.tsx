@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Harris Ranch Boise | Top Shelf',
+  title: 'Hot Tub Removal Harris Ranch Boise | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Harris Ranch, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Harris Ranch', 'hot tub removal Harris Ranch Boise', 'Harris Ranch boise hot tub removal'],
   alternates: {

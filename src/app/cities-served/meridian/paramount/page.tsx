@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Paramount Meridian | Top Shelf',
+  title: 'Hot Tub Removal Paramount Meridian | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Paramount, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Paramount', 'hot tub removal Paramount Meridian', 'Paramount meridian hot tub removal'],
   alternates: {

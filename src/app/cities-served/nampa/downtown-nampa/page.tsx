@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Downtown Nampa Nampa | Top Shelf',
+  title: 'Hot Tub Removal Downtown Nampa Nampa | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Downtown Nampa, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Downtown Nampa', 'hot tub removal Downtown Nampa Nampa', 'Downtown Nampa nampa hot tub removal'],
   alternates: {

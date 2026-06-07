@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hot Tub Removal Lake Lowell Nampa | Top Shelf',
+  title: 'Hot Tub Removal Lake Lowell Nampa | Boise Hot Tub Removal',
   description: 'Hot Tub Removal services in Lake Lowell, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['hot tub removal Lake Lowell', 'hot tub removal Lake Lowell Nampa', 'Lake Lowell nampa hot tub removal'],
   alternates: {
